@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/material-ui-porfolio/static/css/main.b100e6da.chunk.css",
+    "main.js": "/material-ui-porfolio/static/js/main.1eb57763.chunk.js",
+    "main.js.map": "/material-ui-porfolio/static/js/main.1eb57763.chunk.js.map",
+    "runtime-main.js": "/material-ui-porfolio/static/js/runtime-main.6a26b766.js",
+    "runtime-main.js.map": "/material-ui-porfolio/static/js/runtime-main.6a26b766.js.map",
+    "static/js/2.e56066f3.chunk.js": "/material-ui-porfolio/static/js/2.e56066f3.chunk.js",
+    "static/js/2.e56066f3.chunk.js.map": "/material-ui-porfolio/static/js/2.e56066f3.chunk.js.map",
+    "index.html": "/material-ui-porfolio/index.html",
+    "precache-manifest.498a6e9c75fb14198b2bec2c51620319.js": "/material-ui-porfolio/precache-manifest.498a6e9c75fb14198b2bec2c51620319.js",
+    "service-worker.js": "/material-ui-porfolio/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/material-ui-porfolio/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a26b766.js",
+    "static/js/2.e56066f3.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1eb57763.chunk.js"
+  ]
+}
